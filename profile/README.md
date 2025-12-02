@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/6J1g0hjq/logo2.png" alt="Muzzle Bot" width="200"/>
+<img src="https://i.ibb.co/HLKs9rF1/Rules.png">
 
 
 **A premium Discord bot combining the best features from leading bots**
